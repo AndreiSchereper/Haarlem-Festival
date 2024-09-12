@@ -1,0 +1,27 @@
+@media screen and (max-width: 576px) {
+    .banner-height {
+        height: 400px;
+    }
+}
+
+@media screen and (min-width: 577px) {
+    .banner-height {
+        height: 500px;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .banner-height {
+        height: 620px;
+    }
+}
+
+
+.btn-check-it-out {
+    background-color: #CD3600; 
+}
+.border-did-you-know{
+    padding: 1em;
+    border: 1px solid #CD3600;
+    border-radius: 5px;
+}
